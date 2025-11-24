@@ -15,8 +15,8 @@ classifiers = [
 ]
 authors = [{ name = "Uy Ha" }]
 requires-python = ">=3.10"
-license.text = "MIT"
-readme = "README.md"
+license = "MIT"
+readme = { file = "README.rst", content-type = "text/x-rst" }
 
 [project.urls]
 Homepage = "https://github.com/uyha/tree-sitter-cmake"
